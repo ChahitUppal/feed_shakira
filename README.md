@@ -14,11 +14,14 @@ The care and welfare of our fish in the intern room will be significantly enhanc
 
 https://github.com/ChahitUppal/feed_shakira/assets/71035269/bc1c37ee-d544-47bb-8797-dbeb0256b9ed
 
-# Design
+# Algorithm Design
 
 We decided to use a servo motor to have a closed-loop feedback system to achieve precise feeder movement. We used an Arduino Nano 33 BLE to control our feeder throughout the week. We used the Protothreads library to run the timer and a Neural Network simultaneously. The feeder feeds when the internal timer hits 6 hrs or when the microphone senses someone saying "Feed Shakira". We created our audio classification using edge impulse and received a 90% accuracy while using 38.5K RAM and 121.4K flash storage
 ![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/d3007f6c-2190-4bb9-8d21-d2441ed3e742)
 
-# Final working design
+# CAD design
+
+![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/79aad55f-4820-4165-8da2-4eeba2ef004b)
+
 
 
