@@ -18,3 +18,7 @@ https://github.com/ChahitUppal/feed_shakira/assets/71035269/bc1c37ee-d544-47bb-8
 
 We decided to use a servo motor to have a closed-loop feedback system to achieve precise feeder movement. We used an Arduino Nano 33 BLE to control our feeder throughout the week. We used the Protothreads library to run the timer and a Neural Network simultaneously. The feeder feeds when the internal timer hits 6 hrs or when the microphone senses someone saying "Feed Shakira". We created our audio classification using edge impulse and received a 90% accuracy while using 38.5K RAM and 121.4K flash storage
 ![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/d3007f6c-2190-4bb9-8d21-d2441ed3e742)
+
+# Final working design
+
+
