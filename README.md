@@ -3,7 +3,7 @@ Meet our intern room fish SHAKIRA!
 
 <img src="https://github.com/ChahitUppal/feed_shakira/assets/71035269/d6666d4b-dca5-459d-920e-4fb038307a18" alt="image" width="200" height="200">
 
-https://qualcomm-my.sharepoint.com/:v:/p/shehata_qti/EZMsvYgL8D5MkqIPFp4EpKUBpx3D6tjhTKpRWfwsofGn1w?e=Eg8kxs
+[Video](https://qualcomm-my.sharepoint.com/:v:/p/shehata_qti/EZMsvYgL8D5MkqIPFp4EpKUBpx3D6tjhTKpRWfwsofGn1w?e=Eg8kxs)
 
 # Background
 Our lovely fish needs to be fed regularly to maintain a healthy lifestyle. However, with a 5-day work week, we have to plan ahead on how we will provide him on weekends.
