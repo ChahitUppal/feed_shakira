@@ -1,7 +1,7 @@
 ## FEED SHAKIRA
 Meet our intern room fish SHAKIRA!
 
-<img src="https://github.com/ChahitUppal/feed_shakira/assets/71035269/d6666d4b-dca5-459d-920e-4fb038307a18" alt="image" width="200" height="200">
+![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/0fa5b50d-1fee-408f-ad54-82434a1fd9b4)
 
 [Video](https://qualcomm-my.sharepoint.com/:v:/p/shehata_qti/EZMsvYgL8D5MkqIPFp4EpKUBpx3D6tjhTKpRWfwsofGn1w?e=Eg8kxs)
 
@@ -19,7 +19,7 @@ https://github.com/ChahitUppal/feed_shakira/assets/71035269/bc1c37ee-d544-47bb-8
 # Algorithm Design
 
 We decided to use a servo motor to have a closed-loop feedback system to achieve precise feeder movement. We used an Arduino Nano 33 BLE to control our feeder throughout the week. We used the Protothreads library to run the timer and a Neural Network simultaneously. The feeder feeds when the internal timer hits 6 hrs or when the microphone senses someone saying "Feed Shakira". We created our audio classification using edge impulse and received a 90% accuracy while using 38.5K RAM and 121.4K flash storage
-![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/d3007f6c-2190-4bb9-8d21-d2441ed3e742)
+![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/e943d162-ba82-4cf6-942f-c9029b9382a4)
 
 # CAD design
 
