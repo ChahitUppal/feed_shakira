@@ -1,7 +1,9 @@
 ## FEED SHAKIRA
 Meet our intern room fish SHAKIRA!
 
-![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/0fa5b50d-1fee-408f-ad54-82434a1fd9b4)
+<img src="https://github.com/ChahitUppal/feed_shakira/assets/71035269/ccb9f599-4800-4f8b-b7cd-63c56cd7b96f" alt="image" width="300">
+
+
 
 [Video](https://qualcomm-my.sharepoint.com/:v:/p/shehata_qti/EZMsvYgL8D5MkqIPFp4EpKUBpx3D6tjhTKpRWfwsofGn1w?e=Eg8kxs)
 
