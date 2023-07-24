@@ -13,8 +13,8 @@ Our lovely fish needs to be fed regularly to maintain a healthy lifestyle. Howev
 # Motivation
 The care and welfare of our fish in the intern room will be significantly enhanced by the installation of an automatic fish feeder. The feeder will guarantee a timely and regular food supply, avoiding under- or overfeeding. Scheduled feedings support a balanced diet and encourage healthy growth and development. The automation also reduces the possibility of human error or forgetfulness when feeding the fish, improving their chances of survival. As the fish get used to the regular feeding schedule, their stress levels will decrease. This hands-free method also enables interns to concentrate on their job without being concerned about manual feeding, promoting a pleasant and tranquil work atmosphere.
 
+https://github.com/ChahitUppal/feed_shakira/assets/71035269/d30b20f8-e054-4991-94f6-b304388a93a1
 
-https://github.com/ChahitUppal/feed_shakira/assets/71035269/bc1c37ee-d544-47bb-8797-dbeb0256b9ed
 
 # Algorithm Design
 
