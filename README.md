@@ -23,7 +23,6 @@ We decided to use a servo motor to have a closed-loop feedback system to achieve
 
 # CAD design
 
-![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/79aad55f-4820-4165-8da2-4eeba2ef004b)
-
+![image](https://github.com/ChahitUppal/feed_shakira/assets/71035269/580e11db-970c-4b37-9a24-4fcfa797c62d)
 
 
